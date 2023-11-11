@@ -9,7 +9,7 @@ This is a Streamlit-powered chatbot application designed to answer common questi
 
 Make sure you have the following installed on your system:
 
-- Python (>= 3.6)
+- Python (>= 3.9)
 - Pip (Python package installer)
 
 ## Setup
@@ -17,7 +17,7 @@ Make sure you have the following installed on your system:
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/pregnancy-chatbot.git
+    git clone https://github.com/AmosMaru/Pregnancy-CHATBOT.git
     ```
 
 2. Navigate to the project directory:
